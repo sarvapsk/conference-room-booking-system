@@ -1,0 +1,11 @@
+{
+  "bookingRequest": {
+    "emailId": "saravanapa@test.com",
+    "bookingDate": "2024-01-19",
+    "startTime": "12:00",
+    "endTime": "12:15",
+    "attendeesCount": 3
+  },
+  "roomId": 1,
+  "roomName": "Amaze"
+}
